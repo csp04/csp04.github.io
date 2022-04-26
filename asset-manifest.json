@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9106c66f.css",
-    "main.js": "/static/js/main.357655bb.js",
+    "main.js": "/static/js/main.190403e5.js",
     "static/media/net_framework.svg": "/static/media/net_framework.09e30ae0895392fb32461d26d98c5d87.svg",
     "static/media/microsoft-sql-server-1.svg": "/static/media/microsoft-sql-server-1.faf9645db7accb5d88a409189ad0a7d8.svg",
     "static/media/nodejs-1.svg": "/static/media/nodejs-1.52cbf9a89f44655c0375b9e9f88bf9c5.svg",
@@ -16,6 +16,7 @@
     "static/media/csharp.svg": "/static/media/csharp.04d9d2bb18b9781567f7340691dcc686.svg",
     "static/media/xml-2.svg": "/static/media/xml-2.88a9100475c03c8ca63a645b772b99ec.svg",
     "static/media/json.svg": "/static/media/json.5657c33c3cb4c5a3b80dc8615c5ad30b.svg",
+    "static/media/typescript.svg": "/static/media/typescript.a6305a733dd55243980aec55f96f70c5.svg",
     "static/media/tailwind-css-2.svg": "/static/media/tailwind-css-2.315d0ac2a2708d5f06972906113dfbf1.svg",
     "index.html": "/index.html",
     "static/media/angular-icon-1.svg": "/static/media/angular-icon-1.28ae4f3c6c193d04113e4767a73b86bc.svg",
@@ -23,10 +24,10 @@
     "static/media/html.svg": "/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript-1.svg": "/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
     "main.9106c66f.css.map": "/static/css/main.9106c66f.css.map",
-    "main.357655bb.js.map": "/static/js/main.357655bb.js.map"
+    "main.190403e5.js.map": "/static/js/main.190403e5.js.map"
   },
   "entrypoints": [
     "static/css/main.9106c66f.css",
-    "static/js/main.357655bb.js"
+    "static/js/main.190403e5.js"
   ]
 }

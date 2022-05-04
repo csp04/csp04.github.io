@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ed3e1dfd.css",
-    "main.js": "/static/js/main.5e5ba944.js",
+    "main.js": "/static/js/main.8b464ea4.js",
     "static/media/tictactoe-bg.jpg": "/static/media/tictactoe-bg.47736ebb610aba24f4f7.jpg",
     "static/media/risky-venture.regular.ttf": "/static/media/risky-venture.regular.5482118cf1cc24113ea9.ttf",
     "static/media/net_framework.svg": "/static/media/net_framework.09e30ae0895392fb32461d26d98c5d87.svg",
@@ -26,10 +26,10 @@
     "static/media/html.svg": "/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript-1.svg": "/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
     "main.ed3e1dfd.css.map": "/static/css/main.ed3e1dfd.css.map",
-    "main.5e5ba944.js.map": "/static/js/main.5e5ba944.js.map"
+    "main.8b464ea4.js.map": "/static/js/main.8b464ea4.js.map"
   },
   "entrypoints": [
     "static/css/main.ed3e1dfd.css",
-    "static/js/main.5e5ba944.js"
+    "static/js/main.8b464ea4.js"
   ]
 }
